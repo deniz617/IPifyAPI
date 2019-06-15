@@ -14,4 +14,4 @@ Console.WriteLine("Current External IPv6: {0}", ipAPI.IPv6);
 ```
 ### Files
 You can reach to the source code from the [src](src) folder.  
-Also included an ready to use compiled IPifyAPI.dll file in the master folder.
+Also included an ready to use compiled [IPifyAPI.dll](IPifyAPI.dll) file in the master folder.
