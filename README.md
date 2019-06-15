@@ -8,7 +8,7 @@ Here is an example:
 // Create the class instance  
 IPifyAPI ipAPI = new IPifyAPI();  
   
-// Simply get the IPv4 or IPv6 via ipAPI.IPv4  
+// Simply get the IPv4 or IPv6 via <instanceName>.IPv4  
 Console.WriteLine("Current External IPv4: {0}", ipAPI.IPv4);  
 Console.WriteLine("Current External IPv6: {0}", ipAPI.IPv6);  
 ```
