@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ipify_Lib": {
+      "commandName": "Project"
+    },
+    "IPifyAPI": {
+      "commandName": "Project"
+    }
+  }
+}
