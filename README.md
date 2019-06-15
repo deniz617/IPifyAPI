@@ -1,8 +1,8 @@
 # IPifyAPI
 Unofficial IPify API for C# that allows you to get the external IPv4 &amp; IPv6 easily.
 
-# Simple to use
-Using IPifyAPI for C# is simple and easy to use. 
+## Simple to use
+Using IPifyAPI for C# is simple and easy to use.
 Here is an example:
 // Create the class instance
 IPifyAPI ipAPI = new IPifyAPI();
